@@ -8,10 +8,8 @@ In this project It was created a framework that calculates the KMeans of multipl
 
 
 # Before and After pictures of the system
-Before
 <img src="gitImages/before_kMeans.png" width="480">
 
-After
 <img src="gitImages/after_kMeans.png" width="480">
 
 
